@@ -212,9 +212,9 @@ class FormProcessor
 
     
         $host = 'localhost';
-        $username = 'netpeardev_task';
-        $password = '6V)nsqawr0{q';
-        $db_name = 'netpeardev_task';
+        $username = 'xxx';
+        $password = 'xxx';
+        $db_name = 'xxx';
     
         $conn = new \mysqli($host, $username, $password, $db_name);
         
