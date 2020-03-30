@@ -10,7 +10,7 @@ class DataSource
 
     const USERNAME = 'xxx';
 
-    const PASSWORD = '6V)nsqawr0{q';
+    const PASSWORD = 'xxx';
 
     const DATABASENAME = 'xxx';
 
