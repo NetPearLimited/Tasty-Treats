@@ -8,11 +8,11 @@ class DataSource
     // when using above 7.1.0, declare the below constants as private
     const HOST = 'localhost';
 
-    const USERNAME = 'netpeardev_task';
+    const USERNAME = 'xxx';
 
     const PASSWORD = '6V)nsqawr0{q';
 
-    const DATABASENAME = 'netpeardev_task';
+    const DATABASENAME = 'xxx';
 
     private $conn;
 
